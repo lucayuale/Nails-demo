@@ -1,0 +1,22 @@
+VYB — VELVET NAIL STUDIO BOOKING | GITHUB PAGES
+
+1. Descargá el ZIP y descomprimilo en tu PC.
+2. Creá un repositorio nuevo en tu cuenta de GitHub (por ejemplo Nails-demo).
+3. Entrá en Add file > Upload files.
+4. Subí TODOS los archivos descomprimidos a la raíz del repositorio,
+   INCLUIDA LA CARPETA assets con las siete fotos WebP y el favicon.
+   No subas solo el .zip, ni dejes index.html dentro de otra carpeta.
+5. Hacé Commit changes.
+6. Entrá en Settings > Pages.
+7. Source: Deploy from a branch, Branch: main, Folder: /(root), Save.
+8. Comprobá la publicación en Actions y abrí Visit site en Settings > Pages.
+9. En la web, probá menú, idiomas, galería, fotos y los botones de reserva.
+
+RESERVAS: los botones muestran un aviso de demo no conectada.
+No existe un calendario real; NO hay enlace a Obsidian.
+
+Si una foto no abre, comprobá su URL: assets/hero.webp (respetá mayúsculas).
+Luego de un commit, GitHub Pages se reconstruye automáticamente; NO hay que
+borrar ni volver a crear la página. Podés probar Ctrl+Shift+R después del despliegue.
+
+Esta es una demo comercial ficticia. Los servicios, precios y horarios son ilustrativos.
